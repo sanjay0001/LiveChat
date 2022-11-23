@@ -3,7 +3,7 @@
 ## Description 
 A Group video calling application using the Agora Web SDK with a Django backend.
 
-website link : https://fakenewspredict0r.herokuapp.com/
+website link : https://livechat00.herokuapp.com/
 
 ### Images
 ![Screenshot (22)](https://user-images.githubusercontent.com/75019244/181027097-26456b49-565f-4c68-b9c4-2d017f297c0c.png)
